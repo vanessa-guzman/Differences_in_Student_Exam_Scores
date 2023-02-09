@@ -180,8 +180,7 @@ student_exams %>% group_by(`test preparation course`) %>% summarize(avg_math = m
     ## 1 completed                     69.7        74.1        74.7
     ## 2 none                          64.7        66.4        64.2
 
-Comparing exams course based on gender, race/ethnicity, parental
-education level, and lunch.
+Comparing exams course based on gender and parental education level.
 
 ``` r
 student_exams %>% group_by(gender) %>% summarize(avg_math = mean(`math score`), avg_reading = mean(`reading score`), avg_writing = mean(`writing score`))
