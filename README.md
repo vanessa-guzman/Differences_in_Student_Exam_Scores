@@ -18,3 +18,16 @@
 
 **Links to other files in this repository:**
 * [Code](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Code--Differences-in-Student-Exam-Score.md)
+
+------------------
+**Extra: Independent Samples T-Tests**
+
+In order to practice running statistical tests in R, I also used this dataset to run an **independent samples t-test** to determine whether there were statistically significant differences in test scores between students who completed the exam preparation course and students who did not. This code was not used when creating the Tableau dashboard.
+
+The code can be found in this repository under the name [Practice-T-Tests-Code-- Student Exam Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice-T-Tests-Code--Student-Exam-Scores.md)
+
+**Output Box Plots** 
+* [Boxplot 1: Math Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Math-Scores%20.png)
+* [Boxplot 2: Reading Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Reading-Scores%20.png)
+* [Boxplot 2: Writing Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Writing-Scores%20.png)
+
