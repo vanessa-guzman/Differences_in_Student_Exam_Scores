@@ -29,5 +29,5 @@ The code can be found in this repository under the name [Practice-T-Tests-Code--
 **Output Box Plots** 
 * [Boxplot 1: Math Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Math-Scores%20.png)
 * [Boxplot 2: Reading Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Reading-Scores%20.png)
-* [Boxplot 2: Writing Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Writing-Scores%20.png)
+* [Boxplot 3: Writing Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores/blob/main/Practice%20T-Tests--Boxplot-Writing-Scores%20.png)
 
